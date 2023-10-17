@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+ul{
+	background-color:#fff;
+	border:2px solid black;
+	border-radius:5px;
+	padding:20px;
+}
+ul li{
+	list-style-type:none;
+	margin-bottom:5px;
+}
+h1,h2{
+	text-align:center;
+}
+.video{
+	background-color:#fff;
+	border:2px solid black;
+	padding:20px;
+	border-radius:5px;
+}
+video{
+	width:100%
+}
